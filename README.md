@@ -7,6 +7,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Hash Table
 |  |
@@ -45,4 +46,12 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
