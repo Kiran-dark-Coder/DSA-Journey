@@ -10,6 +10,7 @@ My daily DSA progress will be updated here.
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Hash Table
 |  |
@@ -72,4 +73,5 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
