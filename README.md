@@ -22,6 +22,7 @@ My daily DSA progress will be updated here.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0009-palindrome-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
