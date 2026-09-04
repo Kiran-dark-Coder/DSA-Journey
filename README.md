@@ -15,6 +15,7 @@ My daily DSA progress will be updated here.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
