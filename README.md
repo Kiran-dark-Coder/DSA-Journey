@@ -9,6 +9,7 @@ My daily DSA progress will be updated here.
 | [0001-two-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
@@ -61,6 +62,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
