@@ -12,6 +12,7 @@ My daily DSA progress will be updated here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0039-combination-sum) |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -71,6 +72,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -97,4 +99,8 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3903-smallest-stable-index-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
